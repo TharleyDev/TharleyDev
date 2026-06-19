@@ -44,6 +44,8 @@ Busco constantemente aprimorar meus conhecimentos por meio de estudos, projetos 
 
 <div align="center">
 
+<img src="https://streak-stats.demolab.com?user=TharleyDev&theme=tokyonight"/>
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TharleyDev&show_icons=true&theme=github_dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TharleyDev&layout=compact&theme=github_dark)
