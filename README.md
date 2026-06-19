@@ -64,6 +64,7 @@ Busco constantemente aprimorar meus conhecimentos por meio de estudos, projetos 
 ## 🌐 Contato
 
 📧 Email: tharleyaraujo1004@gmail.com
+
 💼 LinkedIn: https://linkedin.com/in/thárleyaraújo
 ---
 
