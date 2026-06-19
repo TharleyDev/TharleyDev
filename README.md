@@ -1,3 +1,10 @@
+<div align="center">
+
+<img src="./Banner.png.png"/>
+
+</div>
+
+
 # Olá! Eu sou o Thárley Araújo Silva 👋
 
 ## 👨‍💻 Sobre mim
